@@ -12,3 +12,7 @@
 - vignette_factors_and_tables.R uploaded
 - vignette_data_frame_mapsound.R uploaded
 - vignette_data_frame.R uploaded
+- vignette_programming_contruct.R
+
+-------Oct 18, 2016 ------------------
+- vignette_mathmatical_funs.R uploaded
