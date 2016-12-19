@@ -16,3 +16,4 @@
 
 -------Oct 18, 2016 ------------------
 - vignette_mathmatical_funs.R uploaded
+- bignette_accelerate_memory.R uploaded
